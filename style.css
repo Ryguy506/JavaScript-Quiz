@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(40, 40, 40);
+    text-align: center;
+
+}
+#score-timer #container{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 30px;
+    color: aliceblue;
+}
+
+#startpage{
+    margin-top: 20vh;
+}
+
+
+
+#startpage #container h1{
+font-size: 50px;
+color: aliceblue;
+margin: 20px;
+}
+
+#startpage #container p{
+font-size: 20px;
+color: aliceblue;
+}
+
+#startbtn{
+    font-size: 30px;
+    width: 200px;
+}
+
+#quiz{
+    margin-top: 20vh;
+    
+}
+
+/* #quiz #container{
+    display: flex;
+    flex-wrap: wrap;
+    
+    justify-content: center;
+} */
+
+#question{
+    color: aliceblue;
+    font-size: 40px;
+}
+
+.btn{
+    margin-top: 10px;
+    width: 35vw;
+    height: 50px;
+    text-align: center;
+    font-size: 20px;
+}
